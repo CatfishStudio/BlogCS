@@ -1,0 +1,14 @@
+﻿*{
+	margin:0;
+	padding:0;
+	border:0 none;
+}
+
+html, body{
+	width:100%;
+	height:100%;
+	background-color:#FFFFFF;
+	//background-image:url("../images/bgimage.png");
+	//background-repeat:repeat-x;
+	//position:fixed;
+}
